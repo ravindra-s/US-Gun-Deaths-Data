@@ -23,3 +23,6 @@ __Month of the deaths__
 2. July and December month recorded the highest number of homicides.
 
 
+Few charts:
+
+  ![Deaths per 100K](https://github.com/ravindra-s/US-Gun-Deaths-Data/blob/master/charts/deaths_per100K.png)
