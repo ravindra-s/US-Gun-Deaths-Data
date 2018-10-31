@@ -1,5 +1,5 @@
 # Gun deaths in US
-The goal of this exploratory data analysis is to understand gun deaths and the reasons of the same that take place in the US every year. This particular dataset from [test](https://github.com/fivethirtyeight/guns-data) covers the deaths that took place in the US between 2012 and 2014. 
+The goal of this exploratory data analysis is to understand gun deaths and the reasons of the same that take place in the US every year. This particular dataset from [fivethirtyeight](https://github.com/fivethirtyeight/guns-data) covers the deaths that took place in the US between 2012 and 2014. 
 
 The victims of fatal shootings are diverse, as are the reasons for their deaths. Here are the key findings of the study:
 
